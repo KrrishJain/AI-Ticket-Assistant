@@ -82,4 +82,4 @@ A simple AI-powered ticket management system built as a learning project by foll
 
 This project was created for learning purposes by following the "Chai aur Code" YouTube series by Hitesh Choudhary. 
 
-Original inspiration and guidance: [Chai aur Code](https://www.youtube.com/@chaiaurcode) 
+Original inspiration and guidance: https://www.youtube.com/@HiteshCodeLab
